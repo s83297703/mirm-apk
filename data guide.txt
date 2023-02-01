@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ymvLu",
+      "title": "mirm apk 1",
+        "text_Content": "Mirror app is a type of mobile application that allows users to mirror their phone's screen to a larger display. It is commonly used to display a smartphone's screen on a TV, monitor, or computer screen. The app typically works by using Wi-Fi or a mobile hotspot to connect the phone to the display device, and then mirroring the phone's screen on the display in real-time..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ymqAY",
+      "title": "mirm apk 2",
+        "text_Content": "The main advantage of using a mirror app is convenience. Instead of having to transfer files or use a cable to connect a phone to a display device, users can simply use their phone's built-in Wi-Fi or hotspot capabilities to mirror their screen. This is especially useful for presentations, demonstrations, or for watching videos or playing games on a larger screen..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ymDjW",
+      "title": "mirm apk 3",
+        "text_Content": "Regardless of the specific app that is used, the basic process for mirroring a phone's screen is typically the same. First, the user must download and install the mirror app on their phone. Next, the user must connect their phone to the display device using either Wi-Fi or a mobile hotspot. Finally, the user must launch the mirror app on their phone and select the display device that they wish to mirror their screen to.",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ymJS0",
+      "title": "mirm apk 4",
+        "text_Content": "Once the phone is connected to the display device, the user can use their phone as normal and the display device will mirror the phone's screen in real-time. This allows users to watch videos, play games, or present slides on a larger screen without having to transfer files or use cables..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ym03G",
+      "title": "mirm apk 5",
+        "text_Content": "While mirror apps are convenient and easy to use, they do have some limitations. For example, they may not be compatible with all display devices, and they may not support all types of content. In addition, the quality of the mirrored screen may not be as good as the quality of the phone's screen, and there may be some lag or delay between the phone's screen and the display device..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ymT4C",
+      "title": "mirm apk 6",
+        "text_Content": "Despite these limitations, mirror apps are a useful tool for anyone who needs to display their phone's screen on a larger display. Whether for presentations, demonstrations, or just for watching videos and playing games, mirror apps make it easy and convenient to connect a phone to a display device and display the phone's screen on the larger display..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://freeimghost.net/i/ymJS0",
+      "title": "mirm apk 7",
+        "text_Content": "In conclusion, the Mirror app is a useful tool for anyone who needs to display their phone's screen on a larger display. With its ease of use, compatibility with multiple display devices, and support for both Wi-Fi and USB connections, it is a popular choice for both Android and iOS users. Whether for presentations, demonstrations, or just for entertainment, the Mirror app provides a convenient and efficient way to connect a phone to a display device and",
+        "text_Content_1": "."
 
 
 
